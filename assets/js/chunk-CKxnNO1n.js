@@ -1,1 +1,0 @@
-import{B as a}from"./chunk-BZWKAqeX.js";import{j as s,b as n,o,a as r}from"./index-Bx-KHl3S.js";const t={class:"container"},e={__name:"langchain",setup:e=>(e,c)=>{const i=r("a-card");return o(),s("div",t,[n(a,{overlayShow:""}),n(i,{title:"LangChain-ChartGPT",class:"mb_2",hoverable:!0})])}};export{e as default};

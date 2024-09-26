@@ -1,0 +1,1 @@
+import{B as a}from"./chunk-C8ON4x8y.js";import{j as s,b as o,o as e,a as r}from"./index-D1VLQMHg.js";const t={class:"container"},n={__name:"sudoku",setup:n=>(n,c)=>{const i=r("a-card");return e(),s("div",t,[o(a,{overlayShow:""}),o(i,{title:"数独",hoverable:!0})])}};export{n as default};
